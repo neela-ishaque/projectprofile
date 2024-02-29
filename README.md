@@ -15,7 +15,7 @@ As our project suggests to use react.js , I did my project with react.js .
 
 # Features:
 
-## Reudux :
+## Redux :
 I have created themeSlice.js where I created a slice from redux toolkit hook and in the slice I have defined the action and initial state and reducers where it will toggle the theme by using redux. That toggleTheme will accept initialState as our globalState and store will trigger the reducer when our ThemeSwitcher will dispatch() the action and it will change the theme of my portfolio from my navigation component.
 
 ## Component Structure and Dataflow:
