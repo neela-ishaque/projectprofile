@@ -1,11 +1,11 @@
 # How to run:
 ### steps:
-1.install [node.js] (https://nodejs.org/en)
-1.clone the File from [Github Repo] (github.com/neela-ishaque/yasminprofile)
-1.open the folder from computer Downloads
-1.open with IDE in current path
-1.open terminal type -´$npm install´
-1.open terminal type -´$npm run dev´
+1. install [node.js] (https://nodejs.org/en)
+1. clone the File from [Github Repo] (github.com/neela-ishaque/yasminprofile)
+1. open the folder from computer Downloads
+1. open with IDE in current path
+1. open terminal type -´$npm install´
+1. open terminal type -´$npm run dev´
 
 # Introduction to planning the Project:
 I started to plan according to my figjam.As the project recommend I built the sketch of project on figma.Then I reasearched for modern portfolio style and tried to implement it on my project.
