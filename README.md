@@ -24,7 +24,7 @@ I created some reusable component like: project card, footer, feature and i used
 ## React Router:
 I implemented my navigation system with SPA logic and React Router which gives my  website page browsing without any loading.
 
-## Usestate Hook:
+## useState Hook:
 For updating and set the value of the variable from a user I tried it with all of my variables in React.js
 
 
